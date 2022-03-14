@@ -7,6 +7,7 @@ public class develper {
 		Integer n=10;
 		
 		Customer cus=new Customer("Srikanth",123);
+		//cus.Id=40;
 		System.out.println(cus.toString());
 		
 

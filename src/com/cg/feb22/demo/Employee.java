@@ -7,6 +7,7 @@ public class Employee {
 	double salary;
 
 	Employee() {
+		
 		System.out.println("constructor called");
 	}
 
